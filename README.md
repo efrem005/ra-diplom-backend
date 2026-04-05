@@ -15,7 +15,8 @@ npm start
 npm run flaky
 ```
 
-Сервер запускается на `http://localhost:7070`
+#### Сервер запускается на `http://localhost:7070`
+#### Сервер на "render.com" `https://ra-diplom-backend.onrender.com`
 
 ---
 
